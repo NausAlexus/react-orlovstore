@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-orlovstore/static/css/main.8b90d385.css",
+    "main.js": "/react-orlovstore/static/js/main.332757a8.js",
+    "static/media/bg.jpg": "/react-orlovstore/static/media/bg.906d9492d23340243dc8.jpg",
+    "index.html": "/react-orlovstore/index.html",
+    "main.8b90d385.css.map": "/react-orlovstore/static/css/main.8b90d385.css.map",
+    "main.332757a8.js.map": "/react-orlovstore/static/js/main.332757a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b90d385.css",
+    "static/js/main.332757a8.js"
+  ]
+}
